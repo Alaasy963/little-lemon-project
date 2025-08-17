@@ -10,7 +10,7 @@ A modern, responsive React web app showcasing menus, booking pages, and interact
 ## 💻 Getting Started
 Clone the repo:
 ```bash
-git clone https://github.com/Ahmed77923/Little-Lemon.git
+git clone https://github.com/Alaasy963/little-lemon-project.git
 cd Little-Lemon/my-app
 npm install
 npm start
